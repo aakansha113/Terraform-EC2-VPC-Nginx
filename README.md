@@ -18,8 +18,11 @@ Before starting, ensure you have:
 - **AWS CLI** installed & configured  
 
 1️⃣ Create VPC & Networking
+
 2️⃣ Launch EC2 Instance
+
 3️⃣ Install & Configure Nginx
+
 4️⃣ Test in Browser
 
 ## Copy the Public IP of EC2 from terminal and paste it to the browser.
