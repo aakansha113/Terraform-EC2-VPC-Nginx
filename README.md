@@ -14,13 +14,14 @@ It’s a simple hands-on exercise to understand AWS networking and compute basic
 
 Before starting, ensure you have:
 
-- An **AWS Account**
-- **AWS CLI** installed & configured
+- An AWS Account
+- 
+- AWS CLI installed & configured
   
 ## 📥 Clone This Repository
 ### To clone this portfolio on your local system, run:
 ```
-https://github.com/aakansha113/Terraform-EC2-VPC-Nginx.git
+git clone https://github.com/aakansha113/Terraform-EC2-VPC-Nginx.git
 ```
 
 ### STEP 1:
