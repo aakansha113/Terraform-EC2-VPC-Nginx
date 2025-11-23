@@ -40,7 +40,7 @@ terraform plan
 ```
 terraform apply -auto-approve
 ```
-## Copy the Public IP of EC2 from terminal and paste it to the browser.
+### Copy the Public IP of EC2 from terminal and paste it to the browser.
 
 ### ⭐ Show Your Support
 #### If you like this portfolio, feel free to ⭐ star the repo!
